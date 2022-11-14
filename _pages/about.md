@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-A data-driven personal website
+About me
 ======
 Fengzhi Li received his Bachelor’s degree in applied physics from Beihang University, Beijing, China, in 2018. He is currently a Ph.D candidate in the School of Economics and Management at Beihang University. His research interests mainly include Graph Neural Network, Recommendation Systems, Time Series.
 
