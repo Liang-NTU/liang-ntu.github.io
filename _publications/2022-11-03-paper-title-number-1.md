@@ -1,7 +1,7 @@
 ---
 title: "Region Embedding with Intra and Inter-View Contrastive Learning."
 collection: publications
-excerpt: <b>Liang Zhang</b>, Cheng Long and Gao Cong
+excerpt: Liang Zhang, Cheng Long and Gao Cong
 date: 2022
 venue: 'IEEE Transactions on Knowledge and Data Engineering (TKDE)'
 ---
