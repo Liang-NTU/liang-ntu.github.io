@@ -13,7 +13,7 @@ Currently, Liang Zhang is a Ph.D. candidate at the School of Computer Science an
 
 <ul>
   <li>Office: DMAL, Block N4, #B3C-14, 50 Nanyang Ave, Singapore</li>
-  <li>Contact Me: LIANG012@e.ntu.edu.sg </li>
+  <li>Contact Me: <a href="mailto:LIANG012@e.ntu.edu.sg"> LIANG012@e.ntu.edu.sg </a> </li>
 </ul>
 
 Research Interests
