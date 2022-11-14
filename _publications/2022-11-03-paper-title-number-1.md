@@ -1,5 +1,5 @@
 ---
-title: "Region Embedding with Intra and Inter-View Contrastive Learning."
+title: "Region Embedding with Intra and Inter-View Contrastive Learning"
 collection: publications
 permalink: /publication/2022-11-03-paper-title-number-1
 excerpt: "Liang Zhang, Cheng Long and Gao Cong"
