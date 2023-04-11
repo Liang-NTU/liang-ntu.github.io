@@ -28,6 +28,6 @@ Research Interests
 Recent News
 ======
 <ul>
-  <li> <b> 2022.11.07:</b> The journal paper "Road Network Representation Learning: Hypergraph is Also What You Need" was under review at ACM Transactions on Knowledge Discovery from Data (TKDD) </li>
+  <li> <b> 2023.04.10:</b> The journal paper "Road Network Representation Learning: Hypergraph is Also What You Need" was published in ACM Transactions on Knowledge Discovery from Data (TKDD) </li>
   <li> <b> 2022.11.03:</b> The journal paper "Region Embedding with Intra and Inter-View Contrastive Learning" was published in IEEE Transactions on Knowledge and Data Engineering (TKDE) </li>
 </ul>
